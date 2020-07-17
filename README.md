@@ -5,7 +5,7 @@ A curated list of resources about concatenative programming and related topics.
 Please open an issue (or even better a pull request) if you want any
 resources/links to be added.
 
-**TODO:** Mirror links (add PDF versions to Git).
+**TODO:** Mirror links (add PDF or even better Markdown versions to Git).
 
 ## Table of Contents
 
