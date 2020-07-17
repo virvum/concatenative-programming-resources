@@ -1,6 +1,6 @@
-# Awesome Concatenative Programming
+# Concatenative Programming Resources
 
-A curated list of related resources about concatenative programming.
+A curated list of resources about concatenative programming and related topics.
 
 Please open an issue (or even better a pull request) if you want any
 resources/links to be added.
@@ -11,6 +11,7 @@ resources/links to be added.
 
 * [Programming languages](#programming-languages)
 * [Articles / Papers](#articles--papers)
+* [Functional stuff](#functional-stuff)
 
 ## Programming languages
 
@@ -45,6 +46,12 @@ Other:
 * [A Conversation with Manfred von Thun](http://www.nsl.com/papers/interview.htm)
 * [What is a Concatenative Language](https://www.drdobbs.com/architecture-and-design/what-is-a-concatenative-language/228701299), by [Christopher Diggins][christopher-diggins]
 
+## Functional stuff
+
+* [Functional JS: Booleans, Conditionals, & Operators](https://caseymorrisdev.com/booleans-conditionals-and-operators) by [Casey Morris][[casey-morris]
+* [Functional JS: Recursive Patterns](https://caseymorrisdev.com/recursive-patterns) by [Casey Morris][[casey-morris]
+* [Church encodings, the U combinator and the Y combinator in JavaScript](http://matt.might.net/articles/js-church/) by [Matt Might][matt-might]
+
 [slava-pestov]: https://github.com/slavapestov
 [christopher-diggins]: https://github.com/cdiggins
 [jon-purdy]: https://github.com/evincarofautumn
@@ -52,3 +59,5 @@ Other:
 [cухарик]: https://github.com/suhr
 [andrea-ferretti]: https://github.com/andreaferretti
 [nick-morgan]: https://github.com/skilldrick
+[casey-morris]: https://github.com/caseymorrisus
+[matt-might]: http://matt.might.net/
