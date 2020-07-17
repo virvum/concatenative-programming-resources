@@ -48,8 +48,8 @@ Other:
 
 ## Functional stuff
 
-* [Functional JS: Booleans, Conditionals, & Operators](https://caseymorrisdev.com/booleans-conditionals-and-operators) by [Casey Morris][[casey-morris]
-* [Functional JS: Recursive Patterns](https://caseymorrisdev.com/recursive-patterns) by [Casey Morris][[casey-morris]
+* [Functional JS: Booleans, Conditionals, & Operators](https://caseymorrisdev.com/booleans-conditionals-and-operators) by [Casey Morris][casey-morris]
+* [Functional JS: Recursive Patterns](https://caseymorrisdev.com/recursive-patterns) by [Casey Morris][casey-morris]
 * [Church encodings, the U combinator and the Y combinator in JavaScript](http://matt.might.net/articles/js-church/) by [Matt Might][matt-might]
 
 [slava-pestov]: https://github.com/slavapestov
