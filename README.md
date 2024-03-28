@@ -51,6 +51,9 @@ Other:
 * [Functional JS: Booleans, Conditionals, & Operators](https://caseymorrisdev.com/booleans-conditionals-and-operators) by [Casey Morris][casey-morris]
 * [Functional JS: Recursive Patterns](https://caseymorrisdev.com/recursive-patterns) by [Casey Morris][casey-morris]
 * [Church encodings, the U combinator and the Y combinator in JavaScript](http://matt.might.net/articles/js-church/) by [Matt Might][matt-might]
+* [F](http://www.nsl.com/k/f/f.htm)
+* [Concatenative, Row-Polymorphic Programming in Haskell](https://github.com/leonidas/codeblog/blob/master/2012/2012-02-17-concatenative-haskell.md)
+* [Peg Programming Language](https://github.com/HackerFoo/peg)
 
 [slava-pestov]: https://github.com/slavapestov
 [christopher-diggins]: https://github.com/cdiggins
